@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizCall",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "55dp"
+    },
+    "_margin_": [
+        3,
+        3,
+        3,
+        3
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s1568f5e60344d93ba854d2f089cce16",
+    "_text_": "+91-9843624155",
+    "_top_": {
+        "type": "string",
+        "value": "229dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "render": false
+    },
+    "displaytext": true,
+    "id": "Phone0beacbc0f2c9748",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "render": false
+    },
+    "kuid": "d59f0281e95647f987161302568e9b3e",
+    "name": "kony.ui.Phone",
+    "parent": "FlexScrollContainer2",
+    "pf": "frmHome",
+    "wType": "Phone",
+    "watchos": {
+        "render": false
+    },
+    "zindex": 1
+}

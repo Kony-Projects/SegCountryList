@@ -1,0 +1,114 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "Button0h4054566dbf440": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            }
+        },
+        {
+            "Button0h4054566dbf440": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            }
+        },
+        {
+            "Button0h4054566dbf440": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            }
+        },
+        {
+            "Button0h4054566dbf440": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            }
+        },
+        {
+            "Button0h4054566dbf440": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            }
+        },
+        {
+            "Button0h4054566dbf440": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            }
+        }
+    ],
+    "_indicator_": "none",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "05",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "f337aa01cd3e4dda92a299ec482e1a0d",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "Segment0c3e8614c5a1a47",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "fb6e251ff30d44fc9b503d9f6bc786e6",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "Popup0ha12702b45354e",
+    "pf": "Popup0ha12702b45354e",
+    "retainselection": false,
+    "rowTemplateId": "f337aa01cd3e4dda92a299ec482e1a0d",
+    "rowcounter": 5,
+    "rowfocusskin": "sa55ab82390a4c68ba21d1a202163bb9",
+    "rowskin": "s4477b8a83d24f0894d7ed307d910505",
+    "rowtemplate": "VBox0f3565f43138642",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s2c732d66e6b490a9659fc61831c6e32",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "Button0h4054566dbf440": "Button0h4054566dbf440"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "AS_Form_da2f06840898437690d226ee5261971f": {
+        "id": "AS_Form_da2f06840898437690d226ee5261971f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAddSeg",
+            "type": "forms",
+            "platform": "",
+            "KUID": "g5adf1ebb4534f63b76be706d3d16b1f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___fa8c90adff7b41be893d2416f6bbb504",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "setcountrylistMasterdata",
+            "display": "setcountrylistMasterdata",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

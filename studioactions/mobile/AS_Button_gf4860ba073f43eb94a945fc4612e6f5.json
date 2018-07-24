@@ -1,0 +1,25 @@
+{
+    "AS_Button_gf4860ba073f43eb94a945fc4612e6f5": {
+        "id": "AS_Button_gf4860ba073f43eb94a945fc4612e6f5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Popup0ha12702b45354e",
+            "type": "popups",
+            "platform": "",
+            "KUID": "j6bbe5be72fa48228e1d6beb88da430c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "DISMISS_POPUP___a526ef907a7f480780a733fd22f6c4a1",
+            "type": "DISMISS_POPUP",
+            "popupId": "Popup0ha12702b45354e",
+            "popupKUID": "j6bbe5be72fa48228e1d6beb88da430c",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

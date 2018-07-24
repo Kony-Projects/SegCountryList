@@ -1,0 +1,43 @@
+<properties>
+    <attributes name="appidkey" value="VoiceOver"/>
+    <attributes name="mwaddrkey" value="192.168.0.182"/>
+    <attributes name="iospopuptransitioncorrection" value="true"/>
+    <attributes name="isNewAppWithRespectToAndroidPackageName" value="true"/>
+    <attributes name="iphonebundleversionkey" value="1.0"/>
+    <attributes name="iosrespectimagesizecorrection" value="true"/>
+    <attributes name="ioscheckboxcorrection" value="true"/>
+    <attributes name="apppackagekey" value="com.orgname.VoiceOver"/>
+    <attributes name="winmangotiletitlekey" value="VoiceOver"/>
+    <attributes name="andtargetsdkkey" value="4.0"/>
+    <attributes name="win8displaynamekey" value="VoiceOver"/>
+    <attributes name="android_allowselfsignedcertificates" value="None"/>
+    <attributes name="iphonebundleidentifierkey" value="com.kony.VoiceOver"/>
+    <attributes name="appnamekey" value="VoiceOver"/>
+    <attributes name="currentgaversion" value="7.3.0.GA_v201804091048_r22"/>
+    <attributes name="appversionkey" value="1.0.0"/>
+    <attributes name="project.type" value="js"/>
+    <attributes name="sessionmanager" value="Http Session Manager"/>
+    <attributes name="vendornamekey" value="KonyLabs"/>
+    <attributes name="appversioncode" value="1"/>
+    <attributes name="createdgaversion" value="7.3.0.21"/>
+    <attributes name="isDpScaleFactor" value="true"/>
+    <attributes name="iostextboxpaddingcorrection" value="true"/>
+    <attributes name="win6xj2meonlysupported" value="false"/>
+    <attributes name="wp10displayname" value="VoiceOver"/>
+    <attributes name="referenceWidth" value="375"/>
+    <attributes name="build" value="debug"/>
+    <attributes name="studiovizproject" value="true"/>
+    <attributes name="marginsincludedinwidgetcontainerweight" value="true"/>
+    <attributes name="mwportkey" value="80"/>
+    <attributes name="mwhttpsportkey" value="443"/>
+    <attributes name="APPLICATION_THEME" value="default"/>
+    <attributes name="SELECTED_THEME" value="default"/>
+    <attributes name="lastmodifiedtime" value="0"/>
+    <attributes name="Server side mobile web" value="false"/>
+    <attributes name="androidenablejsbindings" value="false"/>
+    <attributes name="cloud_url" value="https://m100023485001.konycloud.com"/>
+    <attributes name="cloud_env_name" value="Adapty Solutions - praveen.raju-M100023485001"/>
+    <attributes name="cloud_env_GUID" value="7aab4d92-cb4a-4795-884a-72741c4f0039"/>
+    <attributes name="cloud_account_id" value="100023485"/>
+    <attributes name="cloud_account_guid" value="7181a43b-bde7-4d3f-9ade-09be15858952"/>
+</properties>

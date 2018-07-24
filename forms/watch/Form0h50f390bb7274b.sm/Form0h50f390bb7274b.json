@@ -1,0 +1,72 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizWatchForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        1,
+        0,
+        1,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sa57d00433a14917a9a2fdc3c9a79729",
+    "_spacing_": 4,
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "psp": {
+            "windowSoftInputMode": 2
+        }
+    },
+    "canUpdateUI": true,
+    "children": [
+        "Timer1",
+        "Date0b11d6511917247",
+        "Group0g08458227fed49"
+    ],
+    "containerweight": 100,
+    "currentLocale": "default",
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "device": "appleWatch42",
+    "displayorientation": 1,
+    "enabledforidletimeout": false,
+    "hideswhenloading": true,
+    "id": "Form0h50f390bb7274b",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "ipad": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "iphone": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "isvisible": true,
+    "kuid": "cf61a5435f66446f846de947f38cecea",
+    "layouttype": 4,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "paddinginpixel": true,
+    "platform": "watchos",
+    "prevDevice": "appleWatch38",
+    "prevPlatform": "watchos",
+    "retainscrollposition": false,
+    "shellCSS": "appleWatch42",
+    "titleBarSkin": "sc6bc5beb3bc4abba29bceeef51f71e6",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form"
+}

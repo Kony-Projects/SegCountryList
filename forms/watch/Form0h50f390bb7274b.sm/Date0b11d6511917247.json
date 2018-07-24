@@ -1,0 +1,94 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizDate",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": 0,
+    "_lines_": 1,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_opacity_": 100,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9781dd681d14fdba98c2469b52fcf48",
+    "_text_": "",
+    "_top_": 0,
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "render": false
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "customformatstring": "M/d/yy, h:mm a",
+    "defaultdate": "09/09/2014 10:39:00 am",
+    "desktopweb": {
+        "render": false
+    },
+    "id": "Date0b11d6511917247",
+    "info": null,
+    "ipad": {
+        "render": false
+    },
+    "iphone": {
+        "render": false
+    },
+    "isvisible": true,
+    "kiosk": {
+        "render": false
+    },
+    "kuid": "c3456b66638944fa88257613bd1887dc",
+    "minscale": 100,
+    "name": "kony.ui.Date",
+    "paddinginpixel": true,
+    "parent": "Form0h50f390bb7274b",
+    "pf": "Form0h50f390bb7274b",
+    "spaan": {
+        "render": false
+    },
+    "spaandroidtablet": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": false
+    },
+    "spaipad": {
+        "render": false
+    },
+    "spawindowstablet": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "tabrcandroid": {
+        "render": false
+    },
+    "tooltip": "",
+    "wType": "Date",
+    "widgetalignment": 1,
+    "windows8": {
+        "render": false
+    },
+    "winphone8": {
+        "render": false
+    }
+}

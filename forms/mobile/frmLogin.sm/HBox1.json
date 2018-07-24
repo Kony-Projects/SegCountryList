@@ -1,0 +1,35 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizHBox",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_skin_": "s08e87e6d8964fd69ab9ce7cec1a9aa9",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [],
+    "containerweight": 100,
+    "contextmenu": null,
+    "id": "HBox1",
+    "info": null,
+    "isvisible": true,
+    "kuid": "e6bf8949a35147ad95779d0d98a255cb",
+    "layouttype": 0,
+    "name": "kony.ui.Box",
+    "parent": "frmLogin",
+    "pf": "frmLogin",
+    "wType": "HBox",
+    "widgetalignment": 1
+}

@@ -1,0 +1,101 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTimer",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": true,
+    "_format_": "positional",
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": 0,
+    "_lines_": 0,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_opacity_": 100,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sade02e3bd9a43d99ef1ed33665e5c35",
+    "_text_": "",
+    "_top_": 0,
+    "_units_": [
+        "second",
+        "minute",
+        "hour"
+    ],
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "render": false
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "defaulttimervalue": 600,
+    "desktopweb": {
+        "render": false
+    },
+    "id": "Timer1",
+    "info": null,
+    "ipad": {
+        "render": false
+    },
+    "iphone": {
+        "render": false
+    },
+    "isvisible": true,
+    "kiosk": {
+        "render": false
+    },
+    "kuid": "f0f35c4f39854cadb08cf8d014b03cb5",
+    "minscale": 100,
+    "name": "kony.ui.Timer",
+    "noteId": "7d90-e6fc-ba80-5d1c-12e2-c9d9",
+    "paddinginpixel": true,
+    "parent": "Form0h50f390bb7274b",
+    "pf": "Form0h50f390bb7274b",
+    "spaan": {
+        "render": false
+    },
+    "spaandroidtablet": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": false
+    },
+    "spaipad": {
+        "render": false
+    },
+    "spawindowstablet": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "tabrcandroid": {
+        "render": false
+    },
+    "tooltip": "",
+    "wType": "Timer",
+    "widgetalignment": 1,
+    "windows8": {
+        "render": false
+    },
+    "winphone8": {
+        "render": false
+    }
+}

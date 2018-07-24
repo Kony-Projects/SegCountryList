@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "51dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s10831cd3d8944edbd1698cf6f006f1e",
+    "_text_": "Play",
+    "_top_": {
+        "type": "string",
+        "value": "157dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s16a3cbf2e3e4a81824b9e1bfda96233",
+    "id": "Button0d89e64d57bd34d",
+    "ide_onClick": "AS_Button_de2597c6b9a5474e8aea0ec6a9102cf2",
+    "info": null,
+    "isvisible": true,
+    "kuid": "jd8ace6723d8461bbf9ee6760ed8a852",
+    "name": "kony.ui.Button",
+    "parent": "FlexScrollContainer2",
+    "pf": "frmHome",
+    "wType": "Button",
+    "zindex": 1
+}

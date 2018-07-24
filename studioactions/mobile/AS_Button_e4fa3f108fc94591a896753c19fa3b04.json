@@ -1,0 +1,21 @@
+{
+    "AS_Button_e4fa3f108fc94591a896753c19fa3b04": {
+        "id": "AS_Button_e4fa3f108fc94591a896753c19fa3b04",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_fc8c61dc74e44bbd9ca5a6c6377ccc7d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "play",
+            "display": "play",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

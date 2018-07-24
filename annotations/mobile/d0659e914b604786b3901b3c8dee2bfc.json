@@ -1,0 +1,53 @@
+{
+    "active": 1,
+    "comments": {},
+    "requirements": {
+        "fbb0cdeaeffb4cc19dfa8b4dc4517527": {
+            "fab8-dcd8-26ef-663d-8af5-582a": {
+                "createdById": "af277545-82cf-4ff6-94cf-c5446a15c817",
+                "createdBy": "Praveen Raju",
+                "createdByEmail": "praveen.raju@adapty.com",
+                "label": "1",
+                "createdOn": "1528194795986",
+                "lastModifiedTime": 1528194796146,
+                "active": 0,
+                "widgetId": "fbb0cdeaeffb4cc19dfa8b4dc4517527",
+                "formId": "d0659e914b604786b3901b3c8dee2bfc",
+                "channel": "mobile",
+                "requirementId": "fab8-dcd8-26ef-663d-8af5-582a",
+                "body": "<p>Scroll container</p><p><br></p>"
+            },
+            "98be-8a32-04f7-bb6b-e4c8-1df6": {
+                "createdById": "af277545-82cf-4ff6-94cf-c5446a15c817",
+                "createdBy": "Praveen Raju",
+                "createdByEmail": "praveen.raju@adapty.com",
+                "label": "1",
+                "createdOn": "1528199560150",
+                "lastModifiedTime": 1528199675294,
+                "active": 1,
+                "widgetId": "fbb0cdeaeffb4cc19dfa8b4dc4517527",
+                "formId": "d0659e914b604786b3901b3c8dee2bfc",
+                "channel": "mobile",
+                "requirementId": "98be-8a32-04f7-bb6b-e4c8-1df6",
+                "body": "<p><span style=\"font-size:72px\"><span style=\"color:#008000\"><span style=\"font-family:courier new,courier,monospace\"><strong>Flex</strong></span></span></span></p><p><span style=\"font-size:72px\"><span style=\"color:#008000\"><span style=\"font-family:courier new,courier,monospace\"><strong>​</strong></span></span></span><br></p>"
+            }
+        },
+        "cbf8777f99d24aa5904eafe06515fe8e": {
+            "5651-6d3d-d726-cb06-6bfb-ab82": {
+                "createdById": "af277545-82cf-4ff6-94cf-c5446a15c817",
+                "createdBy": "Praveen Raju",
+                "createdByEmail": "praveen.raju@adapty.com",
+                "label": "2",
+                "createdOn": "1528194815129",
+                "lastModifiedTime": 1528194815273,
+                "active": 0,
+                "widgetId": "cbf8777f99d24aa5904eafe06515fe8e",
+                "formId": "d0659e914b604786b3901b3c8dee2bfc",
+                "channel": "mobile",
+                "requirementId": "5651-6d3d-d726-cb06-6bfb-ab82",
+                "body": "<p>Component</p><p><br></p>"
+            }
+        }
+    },
+    "requirementSeqId": 2
+}

@@ -1,0 +1,17 @@
+{
+  "applicableblockedUIWidget": "Button",
+  "background_color": "00000000",
+  "bg_type": "one",
+  "border_color": "000000ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "font_color": "000000ff",
+  "font_name": "Arial",
+  "font_size": 100,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "isDefaultSkin": false,
+  "kuid": "se414d151cad4d6682ae635f7df46a6b",
+  "wType": "Blocked UI"
+}

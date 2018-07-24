@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s10831cd3d8944edbd1698cf6f006f1e",
+    "_text_": "M",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s16a3cbf2e3e4a81824b9e1bfda96233",
+    "id": "CopyButton0i9871d82f1534f",
+    "ide_onClick": "AS_Button_e4fa3f108fc94591a896753c19fa3b04",
+    "info": null,
+    "isvisible": true,
+    "kuid": "g2c148655865450596fa8abdf1034565",
+    "name": "kony.ui.Button",
+    "parent": "FlexScrollContainer2",
+    "pf": "frmHome",
+    "wType": "Button",
+    "zindex": 1
+}

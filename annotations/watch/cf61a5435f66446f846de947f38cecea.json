@@ -1,0 +1,23 @@
+{
+    "active": 1,
+    "comments": {},
+    "requirements": {
+        "f0f35c4f39854cadb08cf8d014b03cb5": {
+            "7d90-e6fc-ba80-5d1c-12e2-c9d9": {
+                "createdById": "af277545-82cf-4ff6-94cf-c5446a15c817",
+                "createdBy": "Praveen Raju",
+                "createdByEmail": "praveen.raju@adapty.com",
+                "label": "1",
+                "createdOn": "1528194736343",
+                "lastModifiedTime": 1528194736483,
+                "active": 1,
+                "widgetId": "f0f35c4f39854cadb08cf8d014b03cb5",
+                "formId": "cf61a5435f66446f846de947f38cecea",
+                "channel": "watch",
+                "requirementId": "7d90-e6fc-ba80-5d1c-12e2-c9d9",
+                "body": "<p>asdas</p>"
+            }
+        }
+    },
+    "requirementSeqId": 1
+}

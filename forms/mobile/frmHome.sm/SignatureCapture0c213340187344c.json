@@ -1,0 +1,82 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizSignatureCapture",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "36dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "46dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s304d061fc3242c49407f47879b70cfb",
+    "_top_": {
+        "type": "string",
+        "value": "568dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "37dp"
+    },
+    "android": {
+        "render": false
+    },
+    "canUpdateUI": true,
+    "containerweight": 0,
+    "contentalignment": 5,
+    "desktopweb": {
+        "render": false
+    },
+    "id": "SignatureCapture0c213340187344c",
+    "info": null,
+    "ipad": {
+        "render": false
+    },
+    "iphone": {
+        "render": false
+    },
+    "isvisible": true,
+    "kuid": "j978e952db864f26a2e113583920af19",
+    "name": "kony.ui.SignatureCapture",
+    "parent": "FlexScrollContainer2",
+    "pf": "frmHome",
+    "spaan": {
+        "render": false
+    },
+    "spaandroidtablet": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": false
+    },
+    "spaipad": {
+        "render": false
+    },
+    "spawindowstablet": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "wType": "SignatureCapture",
+    "watchos": {
+        "render": false
+    },
+    "zindex": 1
+}
